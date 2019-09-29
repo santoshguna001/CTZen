@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1012634571869",
+    "firebase_url": "https://ctzen-560021.firebaseio.com",
+    "project_id": "ctzen-560021",
+    "storage_bucket": "ctzen-560021.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1012634571869:android:0d357d7473445ec323e9b4",
+        "android_client_info": {
+          "package_name": "com.bengaluru.ctzen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1012634571869-7vr4uaddqc84h780237kqs4o9vee23f7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bengaluru.ctzen",
+            "certificate_hash": "a58c76f41f38507770ba371e5d73a472ce710caf"
+          }
+        },
+        {
+          "client_id": "1012634571869-423l8dm5e45atk484ie4s15a9gjgk8rf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8t_5ZiIt-h9T8_CHLe-jLlxlV1sdEHWI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1012634571869-423l8dm5e45atk484ie4s15a9gjgk8rf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
